@@ -20,7 +20,7 @@ This Java application demonstrates how to create a custom JFrame using the Swing
 ### Running the Application
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/extending-jframe.git
+   git clone https://github.com/HChristopherNaoyuki/java-swing-custom-font-app-demo.git
    ```
    
 2. **Navigate to the Project Directory**:
